@@ -1,0 +1,64 @@
+[14-Jul-2020 08:38:30 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[19-Jul-2020 09:36:07 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[19-Jul-2020 09:36:14 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[19-Jul-2020 09:36:15 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[24-Jul-2020 21:06:09 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[24-Jul-2020 21:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[24-Jul-2020 21:06:27 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[29-Jul-2020 20:48:00 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[29-Jul-2020 20:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[29-Jul-2020 20:48:23 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[03-Aug-2020 22:07:25 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[03-Aug-2020 22:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[08-Aug-2020 22:27:23 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[08-Aug-2020 22:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[09-Aug-2020 10:38:48 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[11-Aug-2020 07:35:31 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[13-Aug-2020 22:59:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[13-Aug-2020 22:59:29 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[13-Aug-2020 23:02:02 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[15-Aug-2020 15:26:07 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[18-Aug-2020 23:54:29 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[18-Aug-2020 23:54:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[18-Aug-2020 23:55:42 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[20-Aug-2020 06:32:26 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[24-Aug-2020 03:03:23 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[24-Aug-2020 03:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[24-Aug-2020 03:04:26 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[24-Aug-2020 14:51:47 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[25-Aug-2020 10:01:11 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[26-Aug-2020 14:09:18 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[26-Aug-2020 14:09:24 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/gdmtqqvi.php on line 2
+[29-Aug-2020 06:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[03-Sep-2020 09:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[08-Sep-2020 18:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2

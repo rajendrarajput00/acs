@@ -1,0 +1,28 @@
+[08-Aug-2020 22:27:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[13-Aug-2020 22:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[18-Aug-2020 23:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[24-Aug-2020 03:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[29-Aug-2020 06:30:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[03-Sep-2020 09:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10
+[08-Sep-2020 18:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp/wp-content/themes/twentysixteen/search.php on line 10

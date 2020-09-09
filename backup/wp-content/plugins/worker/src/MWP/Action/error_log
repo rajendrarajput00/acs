@@ -1,0 +1,4 @@
+[24-Aug-2020 03:03:24 UTC] PHP Fatal error:  Class 'MWP_Action_Abstract' not found in /home/acsboda/public_html/wp-content/plugins/worker/src/MWP/Action/ConnectWebsite.php on line 11
+[29-Aug-2020 06:32:09 UTC] PHP Fatal error:  Class 'MWP_Action_Abstract' not found in /home/acsboda/public_html/wp-content/plugins/worker/src/MWP/Action/ConnectWebsite.php on line 11
+[03-Sep-2020 09:27:10 UTC] PHP Fatal error:  Class 'MWP_Action_Abstract' not found in /home/acsboda/public_html/wp-content/plugins/worker/src/MWP/Action/ConnectWebsite.php on line 11
+[08-Sep-2020 18:36:32 UTC] PHP Fatal error:  Class 'MWP_Action_Abstract' not found in /home/acsboda/public_html/wp-content/plugins/worker/src/MWP/Action/ConnectWebsite.php on line 11

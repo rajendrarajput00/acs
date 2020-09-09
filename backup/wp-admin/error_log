@@ -1,0 +1,29 @@
+[08-Jan-2020 05:45:53 UTC] PHP Warning:  preg_match_all(): Compilation failed: invalid range in character class at offset 11 in /home/fvowerid/public_html/acs/wp-content/plugins/js_composer/include/autoload/hook-vc-grid.php on line 162
+[30-Apr-2020 08:40:47 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/acsboda/public_html/wp-includes/media.php on line 2948
+[30-Apr-2020 08:40:47 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/acsboda/public_html/wp-includes/class-wp-image-editor-gd.php on line 291
+[30-Apr-2020 08:40:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/acsboda/public_html/wp-includes/class-wp-image-editor-gd.php on line 294
+[03-May-2020 13:13:51 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, boolean given in /home/acsboda/public_html/wp-content/plugins/easy-student-results/rps_result.php on line 233
+[29-Aug-2020 06:33:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11
+[01-Sep-2020 09:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11
+[02-Sep-2020 12:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11
+[02-Sep-2020 12:16:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11
+[03-Sep-2020 09:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11
+[08-Sep-2020 18:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home/acsboda/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-admin/options-head.php on line 11

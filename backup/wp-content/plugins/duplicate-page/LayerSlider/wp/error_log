@@ -1,0 +1,44 @@
+[19-Jul-2020 09:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[24-Jul-2020 21:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[29-Jul-2020 20:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[03-Aug-2020 22:07:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[08-Aug-2020 22:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[13-Aug-2020 22:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[18-Aug-2020 23:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[24-Aug-2020 03:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[29-Aug-2020 06:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[03-Sep-2020 09:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
+[08-Sep-2020 18:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-content/plugins/duplicate-page/LayerSlider/wp/notices.php on line 3
