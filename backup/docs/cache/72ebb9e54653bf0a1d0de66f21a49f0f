@@ -1,0 +1,180 @@
+a:5:{s:8:"template";s:17037:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="telephone=no" name="format-detection"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic%2C300italic%2C300" id="userpro_google_font-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="" itemprop="author"/><meta content="" itemprop="datePublished"/><meta content="" itemprop="dateModified"/><meta content="Directive Communication Online Learning" itemprop="publisher"/>
+
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px} a,body,div,header,html,li,nav,section,span,ul{margin:0;padding:0;border:0;vertical-align:baseline;font-size:100%}header,nav,section{display:block}html{font-size:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{position:relative;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased}a:active,a:hover{outline:0}a{color:#777}ul{list-style:none}ul{margin-bottom:20px}a{text-decoration:none}a{-ms-word-wrap:break-word;word-wrap:break-word}a:active,a:focus,a:hover,a:link,a:visited{outline:0 none;text-decoration:none}.clearboth{display:block;visibility:hidden;clear:both;overflow:hidden;width:0;height:0}.clearboth:after{display:block;visibility:hidden;clear:both;width:0;height:0;content:' ';font-size:0;line-height:0}ul{margin-bottom:1em;margin-left:1.5em;list-style-type:disc}ul li{margin-left:.85em}.mk-background-stretch{background-size:cover;-webkit-background-size:cover;-moz-background-size:cover}#mk-footer{z-index:10}.mk-header-toolbar{z-index:310}.mk-toolbar-resposnive-icon{z-index:80}.mk-header{z-index:301}.mk-header .mk-header-bg{z-index:1}.mk-header .fit-logo-img a{z-index:30}.mk-header .mk-header-inner{z-index:300}.mk-header-holder{z-index:200}.mk-header-right{z-index:20}.mk-header-nav-container{z-index:30}.mk-nav-responsive-link{z-index:12}.mk-responsive-nav{z-index:20}#mk-theme-container{z-index:200}@media print{a{text-decoration:underline}a[href="#"]{content:""}#mk-footer,.mk-header{display:none!important}}#mk-theme-container,.mk-header-toolbar,:after,:before{box-sizing:border-box}.mk-grid{width:100%;margin:0 auto}.mk-grid:after{content:"";display:table;clear:both}@media handheld,only screen and (max-width:768px){.mk-grid{width:100%}}.mk-nav-responsive-link{transition:all .15s ease-in-out;-webkit-perspective:1000}.mk-header{width:100%;position:relative}.mk-header .mk-header-bg{position:absolute;left:0;top:0;width:100%;height:100%}.mk-header.sticky-style-fixed .mk-header-bg{transition:opacity .2s ease-out}.mk-header .mk-header-inner{position:relative;width:100%}.mk-header:not(.header-style-4) .header-logo{top:0;position:absolute}.header-logo{display:block;width:100%}.fit-logo-img a{display:inline-block;height:100%;position:relative}.header-style-1.sticky-style-fixed .header-logo,.header-style-1.sticky-style-fixed .menu-hover-style-5 .main-navigation-ul>li,.header-style-1.sticky-style-fixed .mk-header-inner{transition:height .25s ease,line-height .25s ease;-webkit-transition:height .25s ease,line-height .25s ease;-moz-transition:height .25s ease,line-height .25s ease;-ms-transition:height .25s ease,line-height .25s ease;-o-transition:height .25s ease,line-height .25s ease}.mk-header-holder{width:100%;position:absolute}.sticky-style-fixed.header-style-1 .mk-header-holder{position:fixed;top:0;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1000;-ms-perspective:1000;perspective:1000;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0)}#mk-boxed-layout{position:relative;z-index:0}.mk-header-right{position:absolute;right:10px;top:0}.header-grid.mk-grid{position:relative}.mk-header-nav-container{line-height:4px;display:block;position:relative;margin:0 auto}@media handheld,only screen and (max-width:1140px){.mk-header .mk-header-nav-container{width:100%!important}}.header-style-1.header-align-left .mk-header-nav-container{text-align:right;float:right;margin-right:30px}.header-style-1.header-align-left .mk-header-right{display:none}.header-style-1.header-align-left .header-logo{float:left;left:0}.header-style-1.header-align-left .header-logo a{margin-left:20px;float:left}.header-style-1.header-align-left .mk-nav-responsive-link{float:right;right:20px}.header-style-1.header-align-left .mk-grid .mk-header-nav-container{margin-right:0}.header-style-1.header-align-left.boxed-header .mk-header-right{display:block}#mk-theme-container{position:relative;left:0}body:not(.mk-boxed-enabled):not(.rtl) .sticky-style-fixed.header-style-1 .mk-header-holder{right:0}#mk-theme-container,.sticky-style-fixed.header-style-1 .mk-header-holder{transition:all .3s ease-in-out}.mk-header-toolbar{width:100%;position:relative;height:35px;line-height:35px}.mk-header-toolbar-holder{padding:0 20px}.mk-header-tagline{height:35px;line-height:35px}.mk-header-tagline{font-size:13px;margin-right:15px}.mk-header-social{display:inline-block;float:right;height:30px}.mk-header-social ul{list-style:none;margin:0;padding:0}.mk-header-social ul li{margin:0;display:inline-block}.mk-header-social ul li a{position:relative;display:block;margin:0 5px}.mk-header-social ul li a svg{height:16px;vertical-align:middle}@media handheld,only screen and (max-width:780px){.mk-header-right{display:none!important}}.mk-toolbar-resposnive-icon{position:absolute;left:50%;top:0;line-height:16px!important;width:24px;height:24px;cursor:pointer;display:none}.mk-toolbar-resposnive-icon svg{height:16px}@media handheld,only screen and (max-width:780px){.mk-header-toolbar{padding:10px 5px;display:none;height:auto;line-height:auto}.mk-toolbar-resposnive-icon{display:block}.mk-header-social,.mk-header-tagline{width:100%!important;float:none!important;display:block!important;height:auto!important;line-height:25px!important;margin:0 10px 5px!important;padding:0}.mk-header-social li svg{height:24px!important}}.mk-main-navigation{display:inline-block;text-align:center;margin:0 auto}.main-navigation-ul,.main-navigation-ul li.menu-item{margin:0;padding:0}.main-navigation-ul>li.menu-item{float:left}.main-navigation-ul>li.menu-item>a.menu-item-link{display:inline-block;text-align:center;text-decoration:none;font-weight:700;font-size:13px;position:relative;box-sizing:border-box;padding-top:2px}.sticky-style-fixed .main-navigation-ul>li.menu-item>a.menu-item-link{transition:color .1s ease-out,background .1s ease-out,border .1s ease-out,height .35s ease,line-height .35s ease;-webkit-transition:color .1s ease-out,background .1s ease-out,border .1s ease-out,height .35s ease,line-height .35s ease;-moz-transition:color .1s ease-out,background .1s ease-out,border .1s ease-out,height .35s ease,line-height .35s ease;-ms-transition:color .1s ease-out,background .1s ease-out,border .1s ease-out,height .35s ease,line-height .35s ease;-o-transition:color .1s ease-out,background .1s ease-out,border .1s ease-out,height .35s ease,line-height .35s ease}.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:after{content:"";display:block;width:100%;height:2px;-webkit-transform:scale(0,1);-ms-transform:scale(0,1);transform:scale(0,1);-ms-transform-origin:left center;transform-origin:left center;-webkit-transform-origin:left center;transition:all .15s ease-out;-moz-opacity:0;-khtml-opacity:0;opacity:0}.menu-hover-style-5 .main-navigation-ul>li.menu-item:hover>a.menu-item-link::after{-webkit-transform:scale(1,1);-ms-transform:scale(1,1);transform:scale(1,1);-moz-opacity:100;-khtml-opacity:100;opacity:100;opacity:1}.main-navigation-ul li.menu-item{position:relative;display:block;list-style-type:none}.main-navigation-ul>li.menu-item{display:inline-block}.main-navigation-ul a.menu-item-link{display:block;text-decoration:none;white-space:normal}.main-navigation-ul li.menu-item.has-mega-menu{position:static}.mk-nav-responsive-link{display:none;position:absolute;top:50%;margin-top:-18px;line-height:8px;cursor:pointer;padding:10px}.mk-responsive-nav{width:100%}.mk-responsive-nav>li{border-bottom:1px solid rgba(128,128,128,.2)}.mk-responsive-wrap{position:relative;width:100%;display:none;z-index:20;height:100%}.mk-responsive-nav{border-bottom:1px solid rgba(255,255,255,.1);position:relative;width:100%;margin:0;padding:0}.mk-responsive-nav li{display:block;margin:0;position:relative}.mk-responsive-nav li a{border-top:1px solid rgba(255,255,255,.1);display:block;padding:15px 20px;text-align:left;text-transform:uppercase;text-decoration:none;font-weight:700;font-size:13px;line-height:1}.mk-responsive-nav li a:hover{background-color:rgba(0,0,0,.03)}.mk-css-icon-menu{width:18px;height:18px;-webkit-transform:translateZ(0);transform:translateZ(0)}.mk-css-icon-menu div{height:3px;margin-bottom:3px;border-radius:3px;display:block;position:relative}.mk-css-icon-menu-line-2{transition:opacity .1s ease}.mk-css-icon-menu-line-1,.mk-css-icon-menu-line-3{transition:all .2s ease}#mk-footer{width:100%;position:relative;padding:20px 0 0}.mk-footer-copyright{line-height:16px;float:left;padding:25px 0 20px;font-size:bold;-moz-opacity:80;-khtml-opacity:80;opacity:80;opacity:.8}@media handheld,only screen and (max-width:1140px){.mk-footer-copyright{padding-left:20px!important}}@media handheld,only screen and (max-width:767px){.mk-footer-copyright{display:block;float:none!important;text-align:left;clear:both;padding:10px 10px 5px!important}.mk-footer-copyright{text-align:center}}.mk-svg-icon{width:auto;height:auto;fill:currentColor}.mk-main-navigation ul:before{display:none!important}.mk-main-navigation ul:before{font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased;display:inline;width:auto;height:auto;line-height:normal;vertical-align:middle;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0}/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */ a{color:#2e2e2e}a:hover{color:#f97352}@media handheld,only screen and (max-width:1140px){.mk-header-toolbar{background-color:#1c69b1!important}.mk-header-tagline{color:#c1c1c1!important}}.mk-header-toolbar{background-color:#1c69b1}.mk-header-tagline{color:#fff}.mk-header-toolbar .mk-header-social svg{fill:#fff}.add-header-height,.header-style-1 .menu-hover-style-5 .main-navigation-ul>li{height:90px;line-height:90px}.mk-header-bg{-webkit-opacity:1;-moz-opacity:1;-o-opacity:1;opacity:1}.mk-toolbar-resposnive-icon svg{fill:#444}.mk-css-icon-menu div{background-color:#444}.mk-header-inner{border-bottom:1px solid #ededed}.mk-grid{max-width:1140px}.mk-header-nav-container{width:1140px}.main-navigation-ul>li.menu-item>a.menu-item-link{color:#444;font-size:13px;font-weight:600;padding-right:20px!important;padding-left:20px!important;text-transform:uppercase;letter-spacing:px}.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:after{background-color:#f97352;color:#fff}.header-style-1 .menu-hover-style-5 .main-navigation-ul>li>a.menu-item-link{line-height:20px;vertical-align:middle}.mk-responsive-wrap{background-color:#fff}@media handheld,only screen and (max-width:1140px){.mk-grid,.mk-header-nav-container{width:auto}.mk-header-right{right:15px!important}}@media handheld,only screen and (max-width:1140px){.add-header-height,.header-style-1 .header-logo,.header-style-1 .mk-header-inner{height:90px!important;line-height:90px}.mk-header:not(.header-style-4) .mk-header-holder{position:relative!important;top:0!important}.mk-header-padding-wrapper{display:none!important}.mk-header-nav-container{width:auto!important;display:none!important}.header-style-1 .mk-header-right{right:55px!important}.header-logo{height:90px!important}.mk-header-inner{padding-top:0!important}.header-style-1 .header-logo{position:relative!important;right:auto!important;left:auto!important}.mk-responsive-nav li a{color:#444!important}.mk-header-bg{zoom:1!important;opacity:1!important}.header-style-1 .mk-nav-responsive-link{display:block!important}.mk-header-nav-container{height:100%;z-index:200}.mk-main-navigation{position:relative;z-index:2}}::-webkit-selection{background-color:#f97352;color:#fff}::-moz-selection{background-color:#f97352;color:#fff}::selection{background-color:#f97352;color:#fff}</style>
+</head>
+<body class="_masterslider _msp_version_3.2.2 wpb-js-composer js-comp-ver-5.4.7 vc_responsive" data-adminbar="" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div id="top-of-page"></div>
+<div id="mk-boxed-layout">
+<div id="mk-theme-container">
+<header class="mk-header header-style-1 header-align-left toolbar-true menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header " data-header-style="1" data-height="90" data-responsive-height="90" data-sticky-height="55" data-sticky-offset="header" data-sticky-style="fixed" data-transparent-skin="" id="mk-header-1" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+<div class="mk-header-holder">
+<div class="mk-header-toolbar">
+<div class="mk-grid header-grid">
+<div class="mk-header-toolbar-holder">
+<span class="mk-header-tagline">{{ keyword }}</span><div class="mk-header-social toolbar-section"><ul><li><a class="facebook-hover " href="#" target="_blank"><svg class="mk-svg-icon" data-cacheid="icon-5ea8437a2a9ba" data-name="mk-jupiter-icon-simple-facebook" style=" height:16px; width: 16px; " viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M192.191 92.743v60.485h-63.638v96.181h63.637v256.135h97.069v-256.135h84.168s6.674-51.322 9.885-96.508h-93.666v-42.921c0-8.807 11.565-20.661 23.01-20.661h71.791v-95.719h-83.57c-111.317 0-108.686 86.262-108.686 99.142z"></path></svg></a></li></ul><div class="clearboth"></div></div>
+</div>
+</div>
+</div>
+<div class="mk-header-inner add-header-height">
+<div class="mk-header-bg "></div>
+<div class="mk-toolbar-resposnive-icon"><svg class="mk-svg-icon" data-cacheid="icon-5ea8437a2b171" data-name="mk-icon-chevron-down" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"></path></svg></div>
+<div class="mk-grid header-grid">
+<div class="mk-header-nav-container one-row-style menu-hover-style-5" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+<nav class="mk-main-navigation js-main-nav"><ul class="main-navigation-ul" id="menu-main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home no-mega-menu" id="menu-item-4657"><a class="menu-item-link js-smooth-scroll" href="#">HOME</a></li>
+<li class="nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page no-mega-menu" id="menu-item-4662"><a class="menu-item-link js-smooth-scroll" href="#">About</a></li>
+<li class="nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page has-mega-menu" id="menu-item-4663"><a class="menu-item-link js-smooth-scroll" href="#">SIGN IN</a></li>
+</ul></nav>
+</div>
+<div class="mk-nav-responsive-link">
+<div class="mk-css-icon-menu">
+<div class="mk-css-icon-menu-line-1"></div>
+<div class="mk-css-icon-menu-line-2"></div>
+<div class="mk-css-icon-menu-line-3"></div>
+</div>
+</div> <div class=" header-logo fit-logo-img add-header-height logo-has-sticky">
+<a href="#" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</div>
+</div>
+<div class="mk-header-right">
+</div>
+</div>
+<div class="mk-responsive-wrap">
+<nav class="menu-main-menu-container"><ul class="mk-responsive-nav" id="menu-main-menu-1"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home" id="responsive-menu-item-4657"><a class="menu-item-link js-smooth-scroll" href="#">HOME</a></li>
+<li class="nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page" id="responsive-menu-item-4662"><a class="menu-item-link js-smooth-scroll" href="#">About</a></li>
+<li class="nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page" id="responsive-menu-item-4663"><a class="menu-item-link js-smooth-scroll" href="#">SIGN IN</a></li>
+</ul></nav>
+</div>
+</div>
+<div class="mk-header-padding-wrapper"></div>
+<section class="intro-left" id="mk-page-introduce">
+...
+<br>
+<br>
+</section>
+</header>
+{{ links }}
+<br>
+{{ text }}
+<section id="mk-footer-unfold-spacer"></section>
+<section class="" id="mk-footer" itemscope="itemscope" role="contentinfo">
+<div id="sub-footer">
+<div class=" mk-grid">
+<span class="mk-footer-copyright">{{ keyword }} 2020</span>
+</div>
+<div class="clearboth"></div>
+</div>
+</section>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:6803:"<p>Put these two in the ring with microphones in their hands and you get a King who is offended that there’s someone who claims they’re the greatest person ever stating he’s in a league of his own. He dropped his darker persona and adapted to a new ladies man gimmick, often referring to himself as "A Double" and "The Greatest Man That Ever Lived", the latter after a On June 9, 2011, it was reported that Aries had left both Dragon Gate USA and Evolve to reportedly pursue a career outside of professional wrestling.On June 13, 2011, at the tapings of the June 16 episode of Following his win, Aries announced that he was not satisfied with being just the X Division Champion, which led to General Manager On January 25, at the tapings of the February 7 episode of Three weeks later, on the February 27 episode of During a select number of episodes of On July 6, 2015, Ring of Honor announced the return of Aries.On March 9, 2018, Aries returned to Ring of Honor (ROH) for the third time at On January 22, 2016, WWE announced that Aries would be joining their On October 27, Aries suffered a large orbital socket injury during a live event in On the March 6, 2017 episode of On July 7, 2017, Aries was released from his WWE contract. Four Corner Survival: Austin Aries defeats Bryan Danielson and Delirious and Homicide (18:19) ROH War Of The Wire II - Event @ Montgomery County Fairgrounds Coliseum in Dayton, Ohio, USA 16 He has a fluidity to his style where it’s just fun to watch him move. </p> <p>Konnan Discusses Austin Aries Joining MLW And Aries' Controversial Impact DepartureImpact Bound For Glory: Austin Aries Vs. Johnny Impact (Impact World Championship)Austin Aries Takes On Johnny Impact At Bound For GloryAustin Aries Trashes Brian Cage For Not Defending X-Division TitleImpact (10/4):  Austin Aries Goes After Johnny Impact On The MicImpact Slammiversary: Austin Aries Vs. Moose (Impact World Championship)ROH Throwback: Austin Aries & Kenny King Vs. Roderick Strong & Tyler Black (Seth Rollins)Impact (6/21): Moose And Austin Aries At The Slammiversary Press ConferenceImpact (6/7): Austin Aries Talks His Potential Slammiversary OpponentsMatt Riddle Clears The Air On Brock Lesnar And GoldbergCody Rhodes On If AEW Would Sign Luke Gallows And Karl Anderson After They Backed Out Of First DealViews From The Turnbuckle: Can Drew McIntyre Be The Savior WWE Needs?Mark "Rollerball" Rocco Reportedly Passes Away At Age 69WWE SmackDown Preview For Tonight: Title Matches, Otis & Mandy Rose Return, Naomi Vs. Lacey EvansNJPW Summer Struggle Night Four ResultsRusev Temporarily Banned From TwitchJohnny Gargano Reveals What Triple H Told Him After He Turned Heel, His Thoughts On Having ChildrenWWE Reportedly Changing Royal Rumble PlansRusev Says He Is Done With WrestlingEric Young Says He Told Vince McMahon That He "Failed As A Leader"Matt Cardona Debuts On AEW DynamiteNews On Excalibur's AEW Dynamite AbsenceThe Miz Talks CM Punk Recently Blasting Him On Social MediaCody Rhodes On Which Former WWE Stars He Would Sign, Tessa Blanchard Being A Free Agent </p> <p>Neville doesn’t like anyone and it shows. </p> <p>Austin Aries vs. Ariya Daivari: Raw, March 13, 2017 | WWE Skip to main content </p> <p>Austin Aries vs Fallah Bahh: BEST OF 2018 | IMPACT! You can support the development of the CAGEMATCH.net website and database backend via Patreon! Instead we’ve got an aggressive, vicious Neville who is full of confidence and has the biggest chip on his shoulder. Aries began to work with ROH in 2004, joining the On September 16, he and his partner Strong lost the ROH World Tag Team Championship to On April 27, Aries unsuccessfully challenged On September 22, 2005, Aries announced on his website that he had received a contract offer from TNA, and intended to sign it. Austin Aries Trashes Brian Cage For Not Defending X-Division Title Impact (10/4): Austin Aries Goes After Johnny Impact On The Mic Impact Slammiversary: Austin Aries Vs. Highlights Dec 20, 2018. Put these two in the ring with microphones in their hands and you get a King who is offended that there’s someone who claims they’re the greatest person ever stating he’s in a league of his own. </p> <p>He may not be likable, but he’s a hell of a champion.The man who will be facing him at Like Neville, Aries entered the cruiserweight division with quite the resume. He’s been around NXT and WWE for awhile but never has he been as on top of his game as he is now. </p> <p>12,225+ views. </p> <p>Neville doesn’t like anyone and it shows. He then defeated On the May 31 "Under Pressure" themed Impact, which was taped on April 24, Aries turned heel for the first time since 2016 when he used a low blow to defeat Pentagon Jr. to win the Impact World Title for a third time.Aries' next title defense would come against Aries would drop the title to Impact the following night, but the former champion seemingly After his release from the WWE and his 90-day non-compete clause expired, Aries made a surprise return to In August 2018 Aries appeared on On February 8, 2018, Aries debuted for Prior to working for WWE, Aries provided the voice for the main character Jacob Cass in the Road to WrestleMania mode of the It’s no surprise that when they get in the ring together, they cannot stand each other. He became a regular member of the TNA roster, and formed a stable with In February 2006, he and Strong were both suspended for two months for arriving four hours late for the pay-per-view On April 18, 2007, Starr was suspended for ninety days.One month after being granted his release from TNA, Aries made his return to Ring of Honor. </p> <p>That and the fact that only one of them can be champion.Either man could walk out as champion on Sunday and both would be a good standard-bearer for the division. When it comes to confidence, like the champion he has an abundance of it. Daniel Healy Solwold Jr. (born April 15, 1978), better known by his ring name Austin Aries, is an American professional wrestler and voice actor.He is currently signed to Major League Wrestling (MLW) and also wrestles on the independent circuit. • Austin Aries Admits Sexually Abusing A Girl Because He Wanted To Teach Her A Lesson. He’s a former TNA champion. • Austin Aries Admits Sexually Abusing A Girl Because He Wanted To Teach Her A Lesson. Austin Areis vs Bobby Roode TNA Destination X (Part 2) Bobby Roode gets a few More Options from Austin Aries before the Destination X Pay-Per-View - … </p> <p>To learn more or opt-out, read our For a division that’s only about six months old, the cruiserweight championship match feels like a pretty big deal given who’s involved.On one side, we have the champion Neville. </p> <p>Austin Aries vs. Neville (c) Cruiserweight championship match. </p>";s:7:"keyword";s:15:"austin aries vs";s:5:"links";s:9847:"<a href='https://acsboda.com/docs/mike-glennon-net-worth-028bd3'>Mike Glennon Net Worth</a>,
+<a href='https://acsboda.com/docs/how-old-is-mario-lopez-wife-028bd3'>How Old Is Mario Lopez Wife</a>,
+<a href='https://acsboda.com/docs/dsw-locations-az-028bd3'>Dsw Locations Az</a>,
+<a href='https://acsboda.com/docs/apdcl-admit-card-028bd3'>Apdcl Admit Card</a>,
+<a href='https://acsboda.com/docs/bs-vs-bse-degree-028bd3'>Bs Vs Bse Degree</a>,
+<a href='https://acsboda.com/docs/ilum-star-wars-puzzle-028bd3'>Ilum Star Wars Puzzle</a>,
+<a href='https://acsboda.com/docs/raspberry-pi-minecraft-server-bedrock-028bd3'>Raspberry Pi Minecraft Server Bedrock</a>,
+<a href='https://acsboda.com/docs/royal-in-italian-028bd3'>Royal In Italian</a>,
+<a href='https://acsboda.com/docs/svelte-native-vs-react-native-028bd3'>Svelte Native Vs React Native</a>,
+<a href='https://acsboda.com/docs/tom-johnson-hill-restaurant-group-028bd3'>Tom Johnson Hill Restaurant Group</a>,
+<a href='https://acsboda.com/docs/sondra-spriggs-birthday-028bd3'>Sondra Spriggs Birthday</a>,
+<a href='https://acsboda.com/docs/german-mustard-senf-028bd3'>German Mustard Senf</a>,
+<a href='https://acsboda.com/docs/hanser-alberto-rotoworld-028bd3'>Hanser Alberto Rotoworld</a>,
+<a href='https://acsboda.com/docs/i9-9900k-vs-ryzen-7-3700x-reddit-028bd3'>I9 9900k Vs Ryzen 7 3700x Reddit</a>,
+<a href='https://acsboda.com/docs/hurricane-katia-mexico-028bd3'>Hurricane Katia Mexico</a>,
+<a href='https://acsboda.com/docs/nintendo-careers-singapore-028bd3'>Nintendo Careers Singapore</a>,
+<a href='https://acsboda.com/docs/agnostic-front-gotta-go-wiki-028bd3'>Agnostic Front Gotta Go Wiki</a>,
+<a href='https://acsboda.com/docs/graduation-kanye-west-lyrics-028bd3'>Graduation Kanye West Lyrics</a>,
+<a href='https://acsboda.com/docs/gentry-name-definition-028bd3'>Gentry Name Definition</a>,
+<a href='https://acsboda.com/docs/how-to-prepare-for-esports-028bd3'>How To Prepare For Esports</a>,
+<a href='https://acsboda.com/docs/phil-hellmuth-net-worth-2020-028bd3'>Phil Hellmuth Net Worth 2020</a>,
+<a href='https://acsboda.com/docs/Samsung-revenue-by-segment-028bd3'>Samsung Revenue By Segment</a>,
+<a href='https://acsboda.com/docs/what-was-felix-frankfurter-famous-for-028bd3'>What Was Felix Frankfurter Famous For</a>,
+<a href='https://acsboda.com/docs/directions-to-lake-havasu-arizona-from-my-location-028bd3'>Directions To Lake Havasu Arizona From My Location</a>,
+<a href='https://acsboda.com/docs/bigcommerce-installing-stencil-028bd3'>Bigcommerce Installing Stencil</a>,
+<a href='https://acsboda.com/docs/nikki-glaser-trainwreck-028bd3'>Nikki Glaser Trainwreck</a>,
+<a href='https://acsboda.com/docs/airbnb-turtle-bay-028bd3'>Airbnb Turtle Bay</a>,
+<a href='https://acsboda.com/docs/johnny-depp-oscar-wins-028bd3'>Johnny Depp Oscar Wins</a>,
+<a href='https://acsboda.com/docs/boathouse-forest-park-reservations-028bd3'>Boathouse Forest Park Reservations</a>,
+<a href='https://acsboda.com/docs/pursuit-channel-on-demand-028bd3'>Pursuit Channel On Demand</a>,
+<a href='https://acsboda.com/docs/old-yahoo-logo-028bd3'>Old Yahoo Logo</a>,
+<a href='https://acsboda.com/docs/shimano-curado-dc-150-xg-028bd3'>Shimano Curado Dc 150 Xg</a>,
+<a href='https://acsboda.com/docs/callahan-creek-trail-troy-mt-028bd3'>Callahan Creek Trail Troy Mt</a>,
+<a href='https://acsboda.com/docs/bombing-of-royan-028bd3'>Bombing Of Royan</a>,
+<a href='https://acsboda.com/docs/jimmy-somerville-lives-in-brighton-028bd3'>Jimmy Somerville Lives In Brighton</a>,
+<a href='https://acsboda.com/docs/flight-plan-nav-portugal-028bd3'>Flight Plan Nav Portugal</a>,
+<a href='https://acsboda.com/docs/verizon-internet-customer-service-028bd3'>Verizon Internet Customer Service</a>,
+<a href='https://acsboda.com/docs/scofield-state-park-weather-028bd3'>Scofield State Park Weather</a>,
+<a href='https://acsboda.com/docs/bill-mazeroski-family-028bd3'>Bill Mazeroski Family</a>,
+<a href='https://acsboda.com/docs/basf-construction-chemicals-catalogue-pdf-028bd3'>Basf Construction Chemicals Catalogue Pdf</a>,
+<a href='https://acsboda.com/docs/vapiano-pollo-piccante-recipe-028bd3'>Vapiano Pollo Piccante Recipe</a>,
+<a href='https://acsboda.com/docs/beau-daniels-dsbn-028bd3'>Beau Daniels Dsbn</a>,
+<a href='https://acsboda.com/docs/old-time-pottery-benches-028bd3'>Old Time Pottery Benches</a>,
+<a href='https://acsboda.com/docs/Cinderella-%28She-Said-Her-Name%29-028bd3'>Cinderella (She Said Her Name)</a>,
+<a href='https://acsboda.com/docs/Long-tail-stretchy-cast-on-028bd3'>Long Tail Stretchy Cast On</a>,
+<a href='https://acsboda.com/docs/windsor-great-park-028bd3'>Windsor Great Park</a>,
+<a href='https://acsboda.com/docs/Unchained-Melody-original-artist-028bd3'>Unchained Melody Original Artist</a>,
+<a href='https://acsboda.com/docs/%2B-9moreCanoe-%26-kayak-rental-servicesAdventure-Water-Sports%2C-Just-Kayak---Paddle-Board-%26-Kayak-Rentals%2C-and-more-028bd3'>+ 9moreCanoe & Kayak Rental ServicesAdventure Water Sports, Just Kayak - Paddle Board & Kayak Rentals, And More</a>,
+<a href='https://acsboda.com/docs/supervisory-board-of-bayer-ag-028bd3'>Supervisory Board Of Bayer Ag</a>,
+<a href='https://acsboda.com/docs/brian-kernighan-c-028bd3'>Brian Kernighan C</a>,
+<a href='https://acsboda.com/docs/amd-radeon-vii-pro-028bd3'>Amd Radeon Vii Pro</a>,
+<a href='https://acsboda.com/docs/logitech-g402-rgb-028bd3'>Logitech G402 Rgb</a>,
+<a href='https://acsboda.com/docs/Texas-Instruments-revenue-028bd3'>Texas Instruments Revenue</a>,
+<a href='https://acsboda.com/docs/syngenta-goa-contact-number-028bd3'>Syngenta Goa Contact Number</a>,
+<a href='https://acsboda.com/docs/j-stalin-history-028bd3'>J Stalin History</a>,
+<a href='https://acsboda.com/docs/triple-treble-crochet-us-028bd3'>Triple Treble Crochet Us</a>,
+<a href='https://acsboda.com/docs/Shadow-Housing-Minister-028bd3'>Shadow Housing Minister</a>,
+<a href='https://acsboda.com/docs/irving-kagan-obituary-028bd3'>Irving Kagan Obituary</a>,
+<a href='https://acsboda.com/docs/pitt-women%27s-basketball-028bd3'>Pitt Women's Basketball</a>,
+<a href='https://acsboda.com/docs/breaking-dawn-%E2%80%93-part-1-028bd3'>Breaking Dawn – Part 1</a>,
+<a href='https://acsboda.com/docs/mou-feminine-singular-028bd3'>Mou Feminine Singular</a>,
+<a href='https://acsboda.com/docs/zedd-playing-valorant-028bd3'>Zedd Playing Valorant</a>,
+<a href='https://acsboda.com/docs/we-island-catering-028bd3'>We Island Catering</a>,
+<a href='https://acsboda.com/docs/tumalo-creek-bend-oregon-028bd3'>Tumalo Creek Bend Oregon</a>,
+<a href='https://acsboda.com/docs/princeton-basketball-record-028bd3'>Princeton Basketball Record</a>,
+<a href='https://acsboda.com/docs/white-pitbull-puppy-028bd3'>White Pitbull Puppy</a>,
+<a href='https://acsboda.com/docs/back-beat-dvd-028bd3'>Back Beat Dvd</a>,
+<a href='https://acsboda.com/docs/amd-athlon-200ge-028bd3'>Amd Athlon 200ge</a>,
+<a href='https://acsboda.com/docs/yukon-gold-mining-028bd3'>Yukon Gold Mining</a>,
+<a href='https://acsboda.com/docs/joe-kapp-jersey-028bd3'>Joe Kapp Jersey</a>,
+<a href='https://acsboda.com/docs/displayport-cable-best-buy-028bd3'>Displayport Cable Best Buy</a>,
+<a href='https://acsboda.com/docs/kimberly-brooks-danganronpa-028bd3'>Kimberly Brooks Danganronpa</a>,
+<a href='https://acsboda.com/docs/razer-mamba-wireless-%282018%29-028bd3'>Razer Mamba Wireless (2018)</a>,
+<a href='https://acsboda.com/docs/sense8-imdb-parents-guide-028bd3'>Sense8 Imdb Parents Guide</a>,
+<a href='https://acsboda.com/docs/lance-kendricks-cut-028bd3'>Lance Kendricks Cut</a>,
+<a href='https://acsboda.com/docs/worley-careers-alaska-028bd3'>Worley Careers Alaska</a>,
+<a href='https://acsboda.com/docs/veep-ending-review-028bd3'>Veep Ending Review</a>,
+<a href='https://acsboda.com/docs/song-called-valerie-028bd3'>Song Called Valerie</a>,
+<a href='https://acsboda.com/docs/amd-a6-3620-release-date-028bd3'>Amd A6-3620 Release Date</a>,
+<a href='https://acsboda.com/docs/factory-farming-documentary-netflix-028bd3'>Factory Farming Documentary Netflix</a>,
+<a href='https://acsboda.com/docs/dry-mustard-powder-vs-ground-mustard-028bd3'>Dry Mustard Powder Vs Ground Mustard</a>,
+<a href='https://acsboda.com/docs/marseille-soap-uses-028bd3'>Marseille Soap Uses</a>,
+<a href='https://acsboda.com/docs/the-pittsburgh-stop-028bd3'>The Pittsburgh Stop</a>,
+<a href='https://acsboda.com/docs/threadripper-1920x-for-sale-028bd3'>Threadripper 1920x For Sale</a>,
+<a href='https://acsboda.com/docs/Tallest-building-in-Birmingham-028bd3'>Tallest Building In Birmingham</a>,
+<a href='https://acsboda.com/docs/Names-like-Frederick-028bd3'>Names Like Frederick</a>,
+<a href='https://acsboda.com/docs/average-male-size-028bd3'>Average Male Size</a>,
+<a href='https://acsboda.com/docs/athlon-talos-vs-vortex-diamondback-028bd3'>Athlon Talos Vs Vortex Diamondback</a>,
+<a href='https://acsboda.com/docs/toshiba-company-profile-028bd3'>Toshiba Company Profile</a>,
+<a href='https://acsboda.com/docs/kold-war-skarlet-028bd3'>Kold War Skarlet</a>,
+<a href='https://acsboda.com/docs/Cinderella-%28She-Said-Her-Name%29-028bd3'>Cinderella (She Said Her Name)</a>,
+<a href='https://acsboda.com/docs/international-lottery-ticket-price-028bd3'>International Lottery Ticket Price</a>,
+<a href='https://acsboda.com/docs/deirdre-flynn-wiki-028bd3'>Deirdre Flynn Wiki</a>,
+<a href='https://acsboda.com/docs/lenovo-flex-14-ryzen-7-12gb-ram-028bd3'>Lenovo Flex 14 Ryzen 7 12gb Ram</a>,
+<a href='https://acsboda.com/docs/she-is-clothing-028bd3'>She Is Clothing</a>,
+<a href='https://acsboda.com/docs/afterpay-sale-day-2020-028bd3'>Afterpay Sale Day 2020</a>,
+<a href='https://acsboda.com/docs/Best-time-to-visit-Stonehenge-028bd3'>Best Time To Visit Stonehenge</a>,
+<a href='https://acsboda.com/docs/Tyler-Adams-FIFA-20-028bd3'>Tyler Adams FIFA 20</a>,
+<a href='https://acsboda.com/docs/halfords-leeds-kirkstall-028bd3'>Halfords Leeds Kirkstall</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,816 @@
+﻿<!DOCTYPE html>
+<html lang="fr-FR" class="css3transitions">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="UTF-8">
+<!-- Responsive Meta --><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Pingback URL --><link rel="pingback" href="https://acsboda.com/xmlrpc.php">
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements --><!--[if lt IE 9]>
+
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+	<![endif]--><style type="text/css">
+  	 p a{color: #ffffff !important;}
+  	 p a:hover{color: #ffffff}
+	 aside ul li{border-bottom:1px solid #e7e7e7;}
+	 aside .tagcloud a:hover, .nav-growpop .icon-wrap, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .woocommerce #content .quantity .minus:hover, .woocommerce #content .quantity .plus:hover, .woocommerce .quantity .minus:hover, .woocommerce .quantity .plus:hover, .woocommerce-page #content .quantity .minus:hover, .woocommerce-page #content .quantity .plus:hover, .woocommerce-page .quantity .minus:hover, .woocommerce-page .quantity .plus:hover{background:#ffffff;} 
+	 .nav-growpop .icon-wrap{border:0px solid #ffffff;}
+	 .accordion.style_1 .accordion-heading.in_head .accordion-toggle:before, .accordion.style_2 .accordion-heading.in_head .accordion-toggle:before, .accordion.style_3 .accordion-heading.in_head .accordion-toggle:before, .footer_social_icons.circle li:hover{background-color:#ffffff;} 
+	 nav .menu li > ul.sub-menu li{border-bottom:1px solid transparent;}
+	 .codeless_slider .swiper-slide .buttons a.bordered:hover, .header_12 .full_nav_menu nav ul > li:hover, .header_12 .full_nav_menu nav ul > li.current-menu-item, .header_12 .full_nav_menu nav ul > li.current-menu-parent, .header_12 .full_nav_menu nav ul > li:hover{background:#ffffff;}
+	 .services_steps .icon_wrapper, .accordion.style_1 .accordion-heading.in_head .accordion-toggle:before{border:1px solid #ffffff;}
+	 .blog-article.timeline-style .timeline .date, aside #s, #respond textarea, #respond input[type="text"], .recent_news.events .blog-item, .sticky,.post-password-form input[type="password"]{border:1px solid #e7e7e7;}
+	 .recent_news.events .link, .header_12 .full_nav_menu nav ul > li{border-left:1px solid #e7e7e7;}
+	 .header_12 .full_nav_menu nav ul > li:last-child{border-right:1px solid #e7e7e7; padding-right:5px !important;}
+	 .timeline-border{background:#e7e7e7;}
+	 	 .portfolio-item.basic .link, .skill .prog, .codeless_slider .swiper-slide .buttons.colors-light a.colored, .recent_news.events .blog-item:hover .link{background:#ffffff;}
+	 .services_medium.style_1:hover .icon_wrapper, .services_medium.style_3:hover .icon_wrapper{background:#ffffff !important;}
+	 .services_medium.style_3:hover .icon_wrapper{border:2px solid #ffffff !important;}
+	 .blog-article .media .overlay{background:rgba(255, 255, 255, 0.8);}
+	 .list li.titledesc dl dt .circle, .header_12 .after_navigation_widgetized #s{border:1px solid #e7e7e7;}
+	 .blockquote{border-left:2px solid #ffffff;}
+	 .header_page h1{line-height:650px;}
+	 .services_media.style_2 h5{ 
+		background:#ffffff;
+	 }
+	 .services_small .content div, .comment .comment_text{line-height: 20px;}
+	  	 .header_page.with_padding_style.with_subtitle.centered .titles h1{background:rgba(0,0,0, 0.7 );}
+	 .header_page.with_padding_style.with_subtitle.centered .titles h3{background:rgba(221,5,5, 0.7 ); color:#000000;}
+	  	 .services_large:hover .icon_wrapper, .services_steps:hover .icon_wrapper {background: #ffffff ;}
+	 .section-style.borders, .header_12 .full_nav_menu{border-top:1px solid #e7e7e7; border-bottom:1px solid #e7e7e7}
+	 #comments{border-top:1px solid #e7e7e7;}
+	 .not_found .search_field input[type="text"]{border:1px solid #e7e7e7;}
+	 .background--dark nav .menu > li > a:hover, .background--dark header#header .header_tools .vert_mid > a:hover, .background--dark header#header .header_tools .vert_mid .cart .cart_icon:hover, .tabbable.style_1.tabs-left .nav-tabs li.active a, .contact_information dt i{color:#ffffff !important;}
+	 .social_icons_sc i:hover, .tabbable.tabs-top.style_1 .nav.nav-tabs li.active a, .vc_tta-tab.vc_active a .vc_tta-title-text {color:#ffffff;}
+	  
+	 .header_1.fullwidth_slider_page .top_wrapper, .header_4.fullwidth_slider_page .top_wrapper, .header_5.fullwidth_slider_page .top_wrapper,.header_5.page_header_yes .top_wrapper, .header_11.fullwidth_slider_page .top_wrapper{
+	 	padding-top:90px;
+	 }
+	 	 .header_2 nav .menu>li.current-menu-item, .header_2 nav .menu>li.current-menu-parent, .header_2 nav .menu>li:hover{border-top:3px solid #ffffff;}
+	 .header_2 nav .codeless_custom_menu_mega_menu{border-top:2px solid #ffffff;}
+	 .header_2 nav .menu > li > ul.sub-menu{border-top:2px solid #ffffff;}
+
+	 .header_3 nav .menu>li.current-menu-item, .header_3 nav .menu>li.current-menu-parent, .header_3 nav .menu>li:hover{border-top:3px solid #ffffff;}
+	 .header_3 nav .codeless_custom_menu_mega_menu{border-top:2px solid #ffffff;}
+	 .header_3 nav .menu > li > ul.sub-menu{border-top:2px solid #ffffff;} 
+	   
+	 .header_4 nav .menu li > ul, .header_4 nav .menu>li:hover, .header_4 nav .menu>li.current-menu-item, .header_4 nav .menu>li.current-menu-parent, .header_4 .codeless_custom_menu_mega_menu, .header_4 .codeless_custom_menu_mega_menu{background:rgba(239, 128, 26, 0.90) !important;}
+	    
+	 .header_4 .codeless_custom_menu_mega_menu ul.sub-menu{
+	 	background:transparent !important; 
+	 }
+	 .header_4 nav .menu>li:hover a, .header_4 nav .menu>li.current-menu-item a, .header_4 nav .menu>li.current-menu-parent a{color:#fff;}
+	 .header_4 nav .menu li > ul.sub-menu li{border-bottom:1px solid rgba(,,,0);}
+	 .header_4 .header_page.with_subtitle .titles{margin-top:45px;}
+	 
+	 .header_8 nav .menu>li.current-menu-item, .header_8 nav .menu>li.current-menu-parent, .header_8 nav .menu>li:hover{border-bottom:3px solid #ffffff;}
+	 .header_9 nav .menu>li.current-menu-item > a, .header_9 nav .menu>li.current-menu-parent > a , .header_9 nav .menu>li > a:hover{border-bottom:1px solid #ffffff;}
+	 
+	 .header_10 .full_nav_menu .container{border-top:1px solid #e7e7e7;border-bottom:1px solid #e7e7e7;}
+	 	 .header_10 .full_nav_menu .container{border-top:1px solid #e7e7e7;border-bottom:1px solid #e7e7e7;}
+	 	 .header_11.sticky_header nav.left .menu > li:last-child{padding-right:5px; margin-right:0; }
+	 
+	 	 .woocommerce ul.products li.product:hover .overlay, .woocommerce-page ul.products li.product:hover .overlay{background:rgba(16,184,199, 0.90 );}
+	 .woocommerce #content div.product p.price, .woocommerce #content div.product span.price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce-page #content div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page div.product span.price, .woocommerce .star-rating span, .woocommerce-page .star-rating span, .recent_news.events .link i{color: #ffffff;}
+	 .header_tools .cart .checkout{
+	 	border-top:1px solid transparent;
+	 }
+	 .header_tools .cart_icon i:before{line-height:20px;}
+	  .header_tools .cart .content .cart_item{
+	  	border-bottom:1px solid transparent;
+	  }
+	   .header_tools .cart .content .cart_item .description .price, .header_tools .cart .content .cart_item .description .price .amount, .header_tools .cart .cart_item .remove:after{
+	  	color:#ffffff;
+	  }
+	  .header_tools .cart .content .cart_item .description .title, .header_tools .cart .checkout .subtotal{
+	  	color:#fff;
+	  }
+	  .header_tools .cart .content .cart_item .description .title:hover, .header_tools .cart .cart_item .remove:hover:after{color:#ffffff;}
+	 .tabbable.style_1 .nav-tabs li a{font-weight: 600}
+	 .portfolio-item.grayscale .project:after{
+  		border-color: transparent transparent #ffffff transparent;
+	 }
+
+	 #logo img{margin-top:-25px; }
+	 .portfolio_single ul.info li .title{
+	 	text-transform: uppercase;
+	 	font-weight: 700	 }
+
+	 .tabbable.tabs-top.style_1 .nav.nav-tabs li a{
+	 	text-transform: uppercase;
+	 }
+	 .woocommerce #review_form #respond textarea, .woocommerce-page #review_form #respond textarea,.side-nav,.wpcf7-form-control-wrap input, .wpcf7-form-control-wrap textarea, .select2-drop-active, .woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-message, #mc_signup_form .mc_input{
+		border:1px solid transparent !important;
+	 }
+
+	 .side-nav li{
+	 	border-bottom:1px solid transparent;
+	 }
+
+	 footer .widget_search input[type="text"]{
+	 	background:#222222;
+	 	color:#818181;
+	 }
+
+	 .codeless_news_slider .swiper-slide h1, .codeless_news_slider .featured_posts .featured h4{
+	 	background:rgba(255, 255, 255, 0.8);
+	 }
+
+	 .extra_navigation h5.widget-title{
+	 	text-transform:uppercase;
+	 	font-weight:700;
+	 	font-size:15px;
+	 	letter-spacing: :1px;
+	 	line-height:20px;
+	 }
+
+	 .blog-article.grid-style .content h1, .latest_blog .blog-item .content h4, .recent_news .blog-item h4, .recent_news.events .blog-item dt .date{text-transform: uppercase}
+
+	 .latest_blog .blog-item .content h4{font-weight:700;}
+	 
+	 .price_table  h1, .price_table .list ul li:before{color:#ffffff;}
+
+	 .price_table.highlighted .price, .side-nav li.current_page_item, .p_pagination .pagination .current, .p_pagination .pagination a:hover{background:#ffffff;}
+	
+	 .btn-bt.default{
+	 				color: #222222 ;
+				
+													background: rgba(16,184,199, 0.00) ;
+							
+		
+													border-color: rgba(68,68,68, 0.18) ;
+					
+					font-size: 13px ;
+		
+					font-weight: 700 ;
+		
+					text-transform: uppercase ;
+		
+					letter-spacing: 1.5px ;
+			 }
+	 
+	 .btn-bt.default:hover{
+	 		 		color: #222222 ;
+		
+	 	 
+	 				 						background: rgba(16,184,199, 0.00) ;
+			
+		
+		
+													border-color: rgba(68,68,68, 1) ;
+				
+			 }
+
+	 .light .btn-bt.default, .fullscreen-blog-article .content.background--dark .btn-bt{
+		
+			 		color: #fcfcfc ;
+		
+																	background: rgba(255,255,255, 0.00) ;
+					
+													border-color: rgba(255,255,255, 0.40) ;
+					
+	 }
+
+	 .light .btn-bt.default:hover, .fullscreen-blog-article .content.background--dark .btn-bt:hover{
+		
+			 		color: #ffffff ;
+		
+													background: rgba(255,255,255, 0.00) ;
+					
+													border-color: rgba(255,255,255, 1) ;
+					
+	 }
+
+
+	 
+
+	 
+	@media (max-width: 979px) {
+		 .header_5 .background--dark nav .menu > li > a{
+		 	color: #ffffff !important;
+		 }
+	}
+
+	
+
+	/* Layout Inner Container */
+
+		@media (min-width: 981px) and (max-width: 1100px) {
+		.container{	width:87% !important ; }
+	}
+	@media (min-width: 768px){
+		.container{			
+			max-width: 1100px !important;
+		}
+		.row .span12{
+			width:100%; 
+			margin-left:0 !important;
+			padding-left:20px;
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+		}
+	}
+
+	
+	
+	@media (min-width: 1101px) {
+		.container{
+							width:87%;
+				max-width: 1100px !important;
+					}
+
+		.row .span12{
+			
+							width:100%;
+				margin-left:0 !important;
+				padding-left:20px;
+				box-sizing: border-box;
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+					}
+		.testimonial_carousel .item{width:1100px;}
+	}
+
+	/* End Layout Inner Container */
+
+
+	/* Layout Boxed */
+	.boxed_layout{
+		margin-top:30px !important;
+		margin-bottom:30px !important;
+				  -webkit-box-shadow:0 5px 19px 2px rgba(0,0,0,0.1);
+		  -moz-box-shadow:0 5px 19px 2px rgba(0,0,0,0.1);
+		  box-shadow:0 5px 19px 2px rgba(0,0,0,0.1);
+			}
+		
+	
+	.boxed_layout{			
+		width:87% !important ;
+		max-width: 1200px !important;
+	}
+	
+
+		
+	
+	/* End Layout Boxed */
+
+	@media (max-width: 480px){
+				.header_tools{display:none !important;}
+			}
+
+</style>
+<style type="text/css">
+//#header{
+margin: 0 auto;
+}</style>
+<script type="text/javascript">
+        /*jQuery(document).ready(function(){
+
+});*/    </script><script type="text/javascript">
+        /*jQuery(document).ready(function(){
+
+});*/    </script><title>#bbbtitsbbb#</title>
+<meta name="keywords"  content="#bbbkeybbb#" />
+<meta name="description"  content="#bbbdesbbb#" />
+<script type="text/javascript">
+ /* <![CDATA[ */  
+var codeless_global = { 
+ 	ajaxurl: 'https://acsboda.com/wp-admin/admin-ajax.php',
+ 	button_style: 'default'
+ 	}; 
+ /* ]]> */ 
+ </script><link rel="dns-prefetch" href="http://acsboda.com//fonts.googleapis.com">
+<link rel="dns-prefetch" href="http://acsboda.com//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="acsboda » Feed" href="https://acsboda.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="acsboda » Comments Feed" href="https://acsboda.com/comments/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/acsboda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet"
+ id="wsp-main-style-css" href="https://acsboda.com/wp-content/plugins/wp-smart-preloader/assets/css/wsp-front-preloader.css?ver=1.11.3" type="text/css" media="all">
+<link rel="stylesheet" id="wsp-style-css" href="https://acsboda.com/wp-content/plugins/wp-smart-preloader/assets/css/wsp-smart-preload-style.css?ver=1.11.3" type="text/css" media="all">
+<link rel="stylesheet" id="layerslider-css" href="https://acsboda.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="ls-google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900,400%7COpen+Sans:300,400&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://acsboda.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-components-css" href="https://acsboda.com/wp-includes/css/dist/components/style.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-editor-font-css" href="https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&amp;ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-nux-css" href="https://acsboda.com/wp-includes/css/dist/nux/style.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-editor-css" href="https://acsboda.com/wp-includes/css/dist/editor/style.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="block-robo-gallery-style-css-css" href="https://acsboda.com/wp-content/plugins/robo-gallery/includes/extensions/block/dist/blocks.style.build.css?ver=2.8.17" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://acsboda.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="jsrms_fstyle-css" href="https://acsboda.com/wp-content/plugins/jp-students-result-management-system/css/style.css?ver=1.3" type="text/css" media="all">
+<link rel="stylesheet" id="jquerycss-css" href="https://acsboda.com/wp-content/plugins/just-simple-accordions/css/main.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://acsboda.com/wp-content/themes/specular/css/bootstrap.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider-css" href="https://acsboda.com/wp-content/plugins/js_composer/assets/lib/bower/flexslider/flexslider.min.css?ver=5.4.7" type="text/css" media="all">
+<link rel="stylesheet" id="specular-shortcodes-css" href="https://acsboda.com/wp-content/themes/specular/css/shortcodes.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="specular-animate-css" href="https://acsboda.com/wp-content/themes/specular/css/animate.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://acsboda.com/wp-content/themes/specular/style.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-responsive-css" href="https://acsboda.com/wp-content/themes/specular/css/bootstrap-responsive.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.fancybox-css" href="https://acsboda.com/wp-content/themes/specular/fancybox/source/jquery.fancybox.css?v=2.1.2&amp;ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="vector-icons-css" href="https://acsboda.com/wp-content/themes/specular/css/vector-icons.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://acsboda.com/wp-content/themes/specular/css/font-awesome.min.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="linecon-css" href="https://acsboda.com/wp-content/themes/specular/css/linecon.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="steadysets-css" href="https://acsboda.com/wp-content/themes/specular/css/steadysets.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="hoverex-css" href="https://acsboda.com/wp-content/themes/specular/css/hoverex-all.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.easy-pie-chart-css" href="https://acsboda.com/wp-content/themes/specular/css/jquery.easy-pie-chart.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="idangerous.swiper-css" href="https://acsboda.com/wp-content/themes/specular/css/idangerous.swiper.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="gem-base-css" href="https://acsboda.com/wp-content/plugins/godaddy-email-marketing-sign-up-forms/css/gem.min.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://acsboda.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="//acsboda.com/wp-content/uploads/pum/pum-site-styles.css?generated=1589621508&amp;ver=1.10.1" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-cl_redata-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A600%2C400&amp;ver=5.1.5" type="text/css" media="all">
+<!--n2css--><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script><script type="text/javascript">
+/* <![CDATA[ */
+var wsp_obj = {"loader":"Custom Animation","homepage":"1","custom_animation":"<img src=\"http:\/\/139.59.83.25\/~fvowerid\/acs\/wp-content\/uploads\/2018\/12\/4.jpg\" style=\"position:absolute; top:-150px\"\/>","custom_css":"","delay":"900","fadeout":"1500"};
+/* ]]> */
+</script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/wp-smart-preloader/assets/js/wsp-main-script.js?ver=1.11.3"></script><script type="text/javascript">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.6.4"};
+/* ]]> */
+</script><script type="text/javascript" data-cfasync="false" src="https://acsboda.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0"></script><script type="text/javascript" data-cfasync="false" src="https://acsboda.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.6.4"></script><script type="text/javascript" data-cfasync="false" src="https://acsboda.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.6.4"></script><script type="text/javascript">
+/* <![CDATA[ */
+var jsrms_object = {"ajaxUrl":"https:\/\/acsboda.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/jp-students-result-management-system/js/scripts.js?ver=1.3"></script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/just-simple-accordions/js/custom.js?ver=5.1.5"></script><meta name="generator" content="Powered by LayerSlider 6.6.4 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com --><link rel="https://api.w.org/" href="https://acsboda.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://acsboda.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://acsboda.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.1.5">
+<link rel="alternate" type="application/json+oembed" href="https://acsboda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facsboda.com%2Fcontact-us%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://acsboda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facsboda.com%2Fcontact-us%2F&amp;format=xml">
+<!-- <meta name="NextGEN" version="3.1.4" /> --><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://acsboda.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" id="wp-custom-css">
+			.accordion-title {
+    display: none;
+}
+
+.vc_row.wpb_row.vc_inner.vc_row-fluid.align_container.vc_custom_1543566489307.vc_row-has-fill {
+    position: relative;
+    left: 15px;
+}
+
+.textbar h2 {
+    color: #fff !important;
+}
+
+a.btn-bt.default {
+    border: 2px solid #fff !important;
+    color: #fff !important;
+}
+
+div#fws_5bffb11518de0 {
+    padding: 24px 0 !important;
+}
+
+.wpb_text_column.wpb_content_element.para_white p span {
+    color: #fff !important;
+}
+
+li.simple i {
+    color: #fff !important;
+}
+
+li.simple {
+    color: #fff !important;
+}
+div.wpforms-container-full .wpforms-form input[type=submit], 
+div.wpforms-container-full .wpforms-form button[type=submit] {
+    background-color: orange; /* Yellow background */
+}
+a.extra_navigation_button {
+    display: none;
+}
+
+a.button.button-flat-primary.button-large.active {
+    display: none;
+}
+a.button.button-flat-primary.button-large {
+    display: none;
+}
+.pagination-parent.nav-thumbflip.nav-slider {
+    display: none;
+}
+li.twitter {
+    display: none;
+}
+li.flickr {
+    display: none;
+}
+li.dribbble {
+    display: none;
+}
+li.foursquare {
+    display: none;
+}
+li.google{
+	display:none
+}
+i.icon-facebook {
+    background-color: #3a5897;
+}
+i.icon-google {
+    background-color: blue;
+}
+i.icon-envelope {
+    background-color: red;
+}
+i.icon-youtube{
+	background-color:red;
+}
+.wpcf7-form-control-wrap {
+    width: 50%;
+    border: 1px solid;
+	
+}
+select#exam-year, select#exam-class {
+  
+    padding: 6px;
+}
+		</style>
+<style type="text/css" title="dynamic-css" class="options-output">#logo img{height:50px;}header#header .row-fluid .span12,.header_wrapper{height:90px;}.header_1 header#header:not(.transparent), .header_2 header#header, .header_3.header_wrapper header > .container,  .header_4 header#header:not(.transparent),  .header_5 header#header:not(.transparent), .header_6 header#header, .header_6 .full_nav_menu, .header_7.header_wrapper, .header_8.header_wrapper, .header_9.header_wrapper, .header_10.header_wrapper, .header_10 .full_nav_menu, .header_11.header_wrapper:not(.transparent){background-color:#294a70;}.header_wrapper{border-bottom:0px solid ;}nav .menu > li > a, nav .menu > li.hasSubMenu:after,header#header .header_tools .vert_mid > a:not(#trigger-overlay), header#header .header_tools .cart .cart_icon{font-family:"Open Sans";text-transform:uppercase;line-height:20px;letter-spacing:1px;font-weight:600;color:#ffffff;font-size:13px;}nav .menu > li{padding-right:5px;padding-left:5px;}nav .menu > li{margin-right:0;margin-left:0;}nav .menu > li > ul.sub-menu,nav .menu > li > ul.sub-menu ul{width:220px;}nav .menu li > ul,.codeless_custom_menu_mega_menu,.menu-small,.header_tools .cart .content{background-color:#ef801a;}nav .menu li > ul.sub-menu li{color:transparent;}nav .menu li > ul.sub-menu li, .menu-small ul li a{text-transform:uppercase;letter-spacing:0.3px;color:#ffffff;font-size:11px;}nav .codeless_custom_menu_mega_menu ul>li h6, .menu-small ul.menu .codeless_custom_menu_mega_menu h6, .menu-small ul.menu > li > a {text-transform:uppercase;letter-spacing:1px;color:#fff;font-size:14px;}.top_nav{background-color:#ffffff;}.top_nav{border-top:0px solid ;}.top_nav{border-bottom:0px solid ;}.top_nav{font-family:"Open Sans";font-weight:400;font-style:normal;color:#eeeeee;font-size:11px;}.top_nav, .top_nav .widget{height:60px;}.header_page,.header_page{height:650px;}.header_page,.header_page{color:#ffffff;}.header_page,.header_page{background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:left top;background-image:url('https://acsboda.com/wp-content/uploads/2014/05/shutterstock_107375438-2.jpg');}.header_page, #slider-fullwidth{border-bottom:0px solid ;}.sticky_header header#header .row-fluid .span12,.sticky_header .header_wrapper{height:60px;}.sticky_header header#header{background-color:rgba(116,60,22,0.93);}.header_11 nav li > a:hover, .header_11 nav li.current-menu-item > a, .header_11 nav li.current-menu-parent > a ,.header_10 nav li > a:hover, .header_10 nav li.current-menu-item > a, .header_10 nav li.current-menu-parent > a ,.header_9 nav li > a:hover, .header_9 nav li.current-menu-item > a, .header_9 nav li.current-menu-parent > a ,.header_8 nav li > a:hover, .header_8 nav li.current-menu-item > a, .header_8 nav li.current-menu-parent > a ,.header_7 nav li > a:hover, .header_7 nav li.current-menu-item > a, .header_7 nav li.current-menu-parent > a ,.header_6 nav li > a:hover, .header_6 nav li.current-menu-item > a, .header_6 nav li.current-menu-parent > a ,.header_5 nav li > a:hover, .header_5 nav li.current-menu-item > a, .header_5 nav li.current-menu-parent > a ,.header_3 nav li > a:hover, .header_3 nav li.current-menu-item > a, .header_3 nav li.current-menu-parent > a ,.header_2 nav li > a:hover, .header_2 nav li.current-menu-item > a, .header_2 nav li.current-menu-parent > a ,.codeless_slider .swiper-slide .buttons.colors-light a.colored:hover *,.services_steps .icon_wrapper i,.testimonial_carousel .item .param span,.services_large .icon_wrapper i,.animated_counter i,.services_medium.style_1 i,.services_small dt i,.single_staff .social_widget li a:hover i,.single_staff .position,.list li.titledesc dl dt i,.list li.simple i,.page_parents li a:hover,#portfolio-filter ul li.active a,.content_portfolio.fullwidth #portfolio-filter ul li.active a,a:hover,.header_1 nav li.current-menu-item > a,.blog-article h1 a:hover, .blog-article.timeline-style .content .quote i,.header_1 nav li.current-menu-item:after,.header_1 nav li > a:hover,.header_1 nav li:hover:after,header#header .header_tools > a:hover,footer#footer a:hover,aside ul li:hover:after,.highlights{color:#ffffff;}body{color:#777777;}h1,h2,h3,h4,h5,h6,.portfolio_single ul.info li .title, .skill_title{color:#000000;}.p_pagination .pagination span, .pagination a,.testimonial_cycle .item p,#portfolio-filter ul li.active, #faq-filter ul li.active, .accordion.style_2 .accordion-heading .accordion-toggle, .services_medium.style_1 .icon_wrapper, .skill{background-color:#f5f5f5;}#content{background-color:transparent;}.header_page.normal h1{text-transform:uppercase;font-size:24px;}.header_page.with_subtitle.normal .titles h1{text-transform:uppercase;font-size:20px;}.header_page.with_subtitle.normal .titles h3{text-transform:none;font-weight:400;font-size:13px;}.header_page.centered h1{text-transform:none;font-size:38px;}.header_page.with_subtitle.centered .titles h1{text-transform:uppercase;letter-spacing:4px;font-size:48px;}.header_page.with_subtitle.centered .titles h3{text-transform:none;font-size:26px;}footer#footer .widget-title{text-transform:uppercase;letter-spacing:1px;font-weight:700;color:#cdcdcd;}footer#footer, footer#footer .contact_information dd .title{color:#818181;}footer#footer a, footer#footer .contact_information dd p{color:#cdcdcd;}footer#footer .inner{background-color:#1c1c1c;}#copyright, footer .widget_recent_comments li, footer .tagcloud a{background-color:#222222;}footer#footer{border-top:0px solid ;}.footer_social_icons.circle li{background-color:#222222;}.footer_social_icons.circle li a i{color:#ffffff;}.blog-article.standard-style .content h1, .blog-article.alternative-style .content h1, .blog-article.timeline-style .content h1{text-transform:uppercase;line-height:30px;font-weight:700;color:#000000;font-size:20px;}.blog-article.alternate-style .info, .blog-article.timeline-style .info, .blog-article.standard-style .info, .blog-article.grid-style .info, .fullscreen-single .info, .recent_news .blog-item .info, .latest_blog .blog-item .info {line-height:20px;color:#999999;font-size:12px;}.blog-article.alternate-style .info i, .blog-article.timeline-style .info i, .blog-article.standard-style .info i, .blog-article.grid-style .info, .fullscreen-single .info i, .latest_blog .blog-item .info i, .recent_news .blog-item .info i {font-size:15px;}.blog-article.timeline-style .post_box, .blog-article.grid-style .gridbox{background-color:#ffffff;}.fullscreen-blog-article .content{background-color:rgba(255,255,255,0);}aside .widget-title, .portfolio_single h4{text-transform:uppercase;line-height:20px;letter-spacing:1px;font-weight:700;color:#444444;font-size:15px;}aside .widget-title{margin-bottom:24px;}aside .widget{margin-bottom:35px;}aside .tagcloud a{background-color:#222222;}aside .tagcloud a{color:#000000;}.codeless_slider_wrapper{background-color:#222222;}#portfolio-filter ul li a, #faq-filter ul li a{text-transform:uppercase;letter-spacing:1px;color:#bebebe;}#portfolio-filter ul li.active a, #portfolio-filter ul li a:hover, #faq-filter ul li.active a, #faq-filter ul li a:hover{color:#222222;}.content_portfolio.fullwidth .filter-row{background-color:#222222;}.content_portfolio.fullwidth #portfolio-filter ul li a{color:rgba(255,255,255,0.77);}.content_portfolio.fullwidth #portfolio-filter ul li a:hover{color:#ffffff;}.portfolio-item.overlayed .tpl2 .bg{background-color:#ef801a;}.portfolio-item.overlayed h4{text-transform:uppercase;color:#ffffff;}.portfolio-item.overlayed h6{text-transform:none;color:#fff;font-size:14px;}.portfolio-item.grayscale .project{background-color:#ffffff;}.portfolio-item.grayscale .project h6{color:#bebebe;}.portfolio-item.basic .bg{background-color:rgba(255,255,255,0.89);}.portfolio-item.basic .link{color:#0c4270;}.portfolio-item.basic .show_text h5{text-align:center;text-transform:uppercase;letter-spacing:1px;color:#222;}.portfolio-item.basic .show_text h6{text-align:center;font-weight:400;color:#888;}.accordion.style_2 .accordion-heading .accordion-toggle, .accordion.style_1 .accordion-heading .accordion-toggle{text-transform:uppercase;letter-spacing:1px;color:#555555;font-size:15px;}.accordion.style_1 .accordion-heading.in_head .accordion-toggle, .accordion.style_2 .accordion-heading.in_head .accordion-toggle{color:#222222;}.block_title.column_title h1{text-align:left;text-transform:uppercase;line-height:24px;letter-spacing:1px;color:#222;}.block_title.column_title h2{text-align:left;text-transform:none;color:#888;}.block_title.section_title h1{text-transform:uppercase;line-height:38px;letter-spacing:1.5px;font-weight:700;color:#000000;}.block_title.section_title p{line-height:20px;font-weight:400;color:#555;font-size:14px;}.odometer{line-height:48px;letter-spacing:-1px;color:#444;font-size:48px;}.testimonial_carousel .item p{line-height:30px;color:#444;font-size:18px;}.textbar h2{text-transform:none;letter-spacing:0px;color:#222;font-size:24px;}.woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title, .woocommerce ul.products li.product h6, .woocommerce-page ul.products li.product h6{text-transform:uppercase;letter-spacing:1.5px;font-weight:700;}body{font-family:"Open Sans";line-height:20px;font-weight:400;font-style:normal;color:#777777;font-size:13px;}h1,h2,h3,h4,h5,h6,.skill_title{font-family:"Open Sans";font-weight:600;font-style:normal;}h1{line-height:24px;font-size:20px;}h2{line-height:30px;font-size:24px;}h3{line-height:26px;font-size:18px;}h4{line-height:24px;font-size:16px;}h5{line-height:22px;font-size:15px;}h6{line-height:20px;font-size:14px;}.vc_row.section-style, .vc_row.standard_section{margin-bottom:85px;}#content{padding-top:85px;padding-bottom:85px;}</style>
+</head>
+<body>
+#bbb1content1bbb#
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<link rel="stylesheet" id="vc_google_fonts_roboto100100italic300300italicregularitalic500500italic700700italic900900italic-css" href="http://acsboda.com//fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&amp;ver=5.1.5" type="text/css" media="all">
+<!-- End of Header --><div class="extra_navigation right">
+        <a href="http://acsboda.com/#" class="close"></a>
+        <div class="content"></div>
+    </div>
+
+<div class="viewport">
+
+<!-- Used for boxed layout -->
+    
+
+    <!-- Start Top Navigation -->
+    
+    <!-- End of Top Navigation -->
+
+        
+    
+    
+     
+
+    <!-- Header BEGIN -->
+    <div class="header_wrapper  header_1 background--dark ">
+        <header id="header" class=" "><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<div class="container">
+<p>#link1#</p>
+
+                    	   <div class="row-fluid">
+                    <div class="span12">
+                        
+
+                        
+                        <!-- Logo -->
+                                                <div id="logo" class="">
+<p>#bbb2content2bbb#</p>
+
+                            <a href="https://acsboda.com/"><img class="dark" src="https://acsboda.com/wp-content/uploads/2020/04/Logo.jpg" alt=""><img class="light" src="https://acsboda.com/wp-content/uploads/2020/04/Logo.jpg" alt=""></a>  
+                        </div>
+                        <!-- #logo END -->
+
+                        
+                                                <!-- Tools -->
+                            <div class="header_tools">
+                                <div class="vert_mid">
+                                    
+                                    
+                                    
+                                                                        <a class="extra_navigation_button" href="http://acsboda.com/#">
+                                        <i class="icon-bars"></i>
+                                    </a>  
+                                      
+                                </div>
+                            </div>
+                        <!-- End Tools-->
+                        
+                        
+                        <!-- Navigation -->
+
+    			         
+                        
+                        	
+                        
+                                                <div id="navigation" class="nav_top pull-right  ">
+<p>#link2#</p>
+
+                            <nav><ul id="menu-newhome" class="menu codeless_megemenu">
+<li id="menu-item-1972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" data-bg=""><a href="https://acsboda.com/">Home</a></li>
+<li id="menu-item-2209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">About Us</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/our-institute/">Our Institute</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/our-team/">Our Team</a></li>
+	<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/news/">News</a></li>
+	<li id="menu-item-2468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Results</a>
+	<ul class="sub-menu ">
+<li id="menu-item-2275" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-xii/">Class XII</a></li>
+		<li id="menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-x/">Class X</a></li>
+		<li id="menu-item-2522" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-nurcuresry/">class nursery</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Admissions</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/day-school/">Day School</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/courses/">Courses</a></li>
+</ul>
+</li>
+<li id="menu-item-2315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Sports &amp; Co-curricular</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/activities/">Activities</a></li>
+	<li id="menu-item-2311" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/achievements/">Achievements</a></li>
+</ul>
+</li>
+<li id="menu-item-1971" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/portfolio/">Portfolio</a></li>
+<li id="menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2037 current_page_item" data-bg=""><a href="https://acsboda.com/contact-us/">Contact Us</a></li>
+</ul></nav>
+</div>
+                         
+
+                        <!-- #navigation -->
+
+                         <!-- End custom menu here -->
+                            		    	         <a href="http://acsboda.com/#" class="mobile_small_menu open"></a>
+                                                
+                                                
+
+
+                    </div>
+                </div>
+                                
+                        </div>  
+                                    
+                        <!-- Responsive Menu -->
+                <div class="row-fluid">
+                    <div class="menu-small">
+	
+	<ul id="mobile-menu" class="menu codeless_megemenu">
+<li id="responsive-menu-item-1972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" data-bg=""><a href="https://acsboda.com/">Home</a></li>
+<li id="responsive-menu-item-2209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">About Us</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="responsive-menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/our-institute/">Our Institute</a></li>
+	<li id="responsive-menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/our-team/">Our Team</a></li>
+	<li id="responsive-menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/news/">News</a></li>
+	<li id="responsive-menu-item-2468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Results</a>
+	<ul class="sub-menu ">
+<li id="responsive-menu-item-2275" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-xii/">Class XII</a></li>
+		<li id="responsive-menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-x/">Class X</a></li>
+		<li id="responsive-menu-item-2522" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/class-nurcuresry/">class nursery</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="responsive-menu-item-2314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Admissions</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="responsive-menu-item-2312" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/day-school/">Day School</a></li>
+	<li id="responsive-menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/courses/">Courses</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-2315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-bg="">
+<a href="http://acsboda.com/#">Sports &amp; Co-curricular</a>
+
+
+<ul class="sub-menu non_mega_menu">
+<li id="responsive-menu-item-2310" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/activities/">Activities</a></li>
+	<li id="responsive-menu-item-2311" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/achievements/">Achievements</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-1971" class="menu-item menu-item-type-post_type menu-item-object-page" data-bg=""><a href="https://acsboda.com/portfolio/">Portfolio</a></li>
+<li id="responsive-menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2037 current_page_item" data-bg=""><a href="https://acsboda.com/contact-us/">Contact Us</a></li>
+</ul>
+</div>  
+                </div>
+            <!-- End Responsive Menu -->
+                                </header>
+</div>
+    
+     
+
+        
+    <div class="top_wrapper">
+                           
+<!-- .header -->
+    
+    
+<section id="content" class="composer_content" style="background-color:#ffffff;"><div id="fws_5ec22f77774d8" class="vc_row vc_row-fluid  animate_onoffset row-dynamic-el standard_section    " style="">
+<div style="position: absolute;top: 0;"></div>
+<div class="container  dark"><div class="section_clear">
+	<div class="vc_col-sm-12 vc_column column_container with_padding " style="padding:" data-animation="none" data-delay="">
+			<div class="wpb_wrapper">
+				<h2 style="text-align: left;font-family:Roboto;font-weight:400;font-style:normal" class="vc_custom_heading">Contact Us for more Info</h2>
+<div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element ">#descontent# <p>#flink#</p></div> <div class="vc_empty_space" style="height: 14px"><span class="vc_empty_space_inner"></span></div>
+<h2 style="text-align: left;font-family:Roboto;font-weight:400;font-style:normal" class="vc_custom_heading">Contact me</h2>
+<div role="form" class="wpcf7" id="wpcf7-f2030-p2037-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="http://acsboda.com/contact-us/#wpcf7-f2030-p2037-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2030"><input type="hidden" name="_wpcf7_version" value="5.1.1"><input type="hidden" name="_wpcf7_locale" value="en_US"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2030-p2037-o1"><input type="hidden" name="_wpcf7_container_post" value="2037"><input type="hidden" name="g-recaptcha-response" value="">
+</div>
+<div id="popup_contact">
+<p><label> Your Name (required)<br><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Your Email (required)<br><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Subject<br><span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
+<p><label> Your Message<br><span class="wpcf7-form-control-wrap textarea-492"><textarea name="textarea-492" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span></label></p>
+</div>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit"></p>
+<input type="hidden" class="wpcf7-pum" value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}'><div class="wpcf7-response-output wpcf7-display-none"></div>
+</form>
+</div>
+			</div> 
+	</div> 
+</div></div>
+</div>
+            
+                    
+</section><a href="http://acsboda.com/#" class="scrollup">Scroll</a> 
+
+ 
+</div>
+<!-- Footer -->
+
+    <div class="footer_wrapper">
+        
+        <footer id="footer" class=""><div class="inner">
+    	    	<div class="container">
+    	        	<div class="row-fluid ff">
+                    	<!-- widget -->
+    		        	                            <div class="span3">
+                            
+                                <div id="social_widget-2" class="widget social_widget">
+<h5 class="widget-title">Follow us on</h5>
+<ul class="footer_social_icons circle">
+<li class="facebook"><a href="https://www.facebook.com"><i class="icon-facebook"></i></a></li>
+<li class="twitter"><a href="http://acsboda.com/#"><i class="icon-twitter"></i></a></li>
+<li class="flickr"><a href="http://acsboda.com/#"><i class="icon-flickr"></i></a></li>
+<li class="google"><a href="https://acsboda.com"><i class="icon-google"></i></a></li>
+<li class="dribbble"><a href="http://acsboda.com/#"><i class="icon-dribbble"></i></a></li>
+<li class="foursquare"><a href="http://acsboda.com/#"><i class="icon-foursquare"></i></a></li>
+<li class="youtube"><a href="https://www.youtube.com/channel/UCuPJe0D5U3D71j0kEvubVDA?view_as=subscriber"><i class="icon-youtube"></i></a></li>
+<li class="email"><a href="http://arjunconventboda@gmail.com"><i class="icon-envelope"></i></a></li>
+</ul>
+</div>                                
+                            </div>
+                                                    <div class="span3">
+                            
+                                		<div id="recent-posts-6" class="widget widget_recent_entries">		<h5 class="widget-title">Recent Posts</h5>		<ul>
+<li>
+					<a href="https://acsboda.com/2018/12/27/newsletter-2018/">Newsletter 2018</a>
+									</li>
+											<li>
+					<a href="https://acsboda.com/2018/12/27/newsletter-2017/">Newsletter 2017</a>
+									</li>
+					</ul>
+</div>                                
+                            </div>
+                                                    <div class="span3">
+                            
+                                <div id="custom_html-3" class="widget_text widget widget_custom_html">
+<h5 class="widget-title">Address</h5>
+<div class="textwidget custom-html-widget">
+<div class="kode_widgt_touch widget_hdg" style="width:100%; float:left">
+
+<span class="fa fa-map-marker"></span>
+   
+ Narsinghgarh Road Boda dist. Rajgarh Biora, Boda
+ 
+<br><br><span class="fa fa-phone"></span>
+   
+ +465685 
+<br><br><span class="fa fa-envelope"></span>
+   
+ <a href="http://acsboda.com/#"><span class="__cf_email__" data-cfemail="a7c6d5cdd2c9c4c8c9d1c2c9d3c5c8c3c6e7c0cac6cecb89c4c8ca">[email protected]</span></a>
+</div>
+
+
+
+</div>
+</div>                                
+                            
+
+</div>
+                                                    <div class="span3">
+                            
+                                <div id="custom_html-2" class="widget_text widget widget_custom_html">
+<h5 class="widget-title">PAGES</h5>
+<div class="textwidget custom-html-widget">
+
+<a href="http://acsboda.com/acsboda">HOME</a> <br><br><a href="http://acsboda.com/acsboda/our-institute">ABOUT US</a> <br><br><a href="http://acsboda.com/acsboda/day-school">ADMISSIONS</a> <br><br><a href="http://acsboda.com/acsboda/activities">SPORTS AND CO-CURRICULAR</a> <br><br><a href="http://acsboda.com/acsboda/portfolio">PORTFOLIO</a><br><br><a href="http://acsboda.com/acsboda/contact-Us">CONTACT US</a> 
+
+
+<script data-cfasync="false" src="http://acsboda.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p>#link3#</p>
+</div></footer>
+</div>
+</div>
+</body>
+</html><html><body>
+<div id="copyright">
+    	    	<div class="container">
+    	        	<div class="row-fluid">
+    		        	<div class="span12 desc">
+<div class="copyright_text"><p style="text-align: center;"><span style="color: #818181; font-family: 'Open Sans'; font-size: 11px; text-align: center; background-color: #222222;"><a href="http://acsboda.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9fdcf0efe6edf6f8f7ebdf">[email protected]</a> Arjun Convent Higher Secondary School</span></p></div>
+                            <div class="pull-right">
+                                                           </div>
+                        </div>
+                    </div>
+                </div>
+            
+<p>#link4#</p>
+</div>
+<!-- #copyright -->
+                    
+    
+    <!-- #footer -->
+
+
+<!-- ngg_resource_manager_marker --><script data-cfasync="false" src="http://acsboda.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/acsboda.com\/wp-admin\/admin-ajax.php","nonce":"c818998d70"};
+/* ]]> */
+</script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/post-like.js?ver=1.0"></script><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/acsboda.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/bootstrap.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.easing.1.1.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.easing.1.3.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.mobilemenu.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/isotope.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/smoothscroll.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.flexslider-min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/fancybox/source/jquery.fancybox.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/fancybox/source/helpers/jquery.fancybox-media.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.carouFredSel-6.1.0-packed.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.hoverex.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/tooltip.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.parallax.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/modernizr.custom.66803.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.appear.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.easy-pie-chart.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/odometer.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/animations.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/main.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/comment-reply.min.js?ver=5.1.5"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.placeholder.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.countdown.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/waypoints.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/idangerous.swiper.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/background-check.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.fullPage.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/skrollr.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/select2.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.slicknav.min.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/classie.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.mixitup.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.onepage.js?ver=1"></script><script type="text/javascript" src="https://acsboda.com/wp-content/themes/specular/js/jquery.infinitescroll.min.js?ver=1"></script><script type="text/javascript">
+/* <![CDATA[ */
+var GEM = {"thankyou":"Thank you for signing up!","thankyou_suppressed":"Thank you for signing up! Please check your email to confirm your subscription.","oops":"Oops! There was a problem. Please try again.","email":"Please enter a valid email address.","required":"%s is a required field."};
+/* ]]> */
+</script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/godaddy-email-marketing-sign-up-forms/js/gem.min.js?ver=1.4.0"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script><script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.10.1","pm_dir_url":"https:\/\/acsboda.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/acsboda.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/acsboda.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"2528","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/acsboda.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/acsboda.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-2534":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"0"}}],"theme_id":"2530","size":"tiny","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"left bottom","open_sound":"none","custom_sound":"","location":"left bottom","position_top":"100","position_bottom":"10","position_left":"10","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","cookies":[],"theme_slug":"enterprise-blue","id":2534,"slug":"notification"}};
+/* ]]> */
+</script><script type="text/javascript" src="//acsboda.com/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1589621509&amp;ver=1.10.1"></script><script type="text/javascript" src="https://acsboda.com/wp-includes/js/wp-embed.min.js?ver=5.1.5"></script><script type="text/javascript" src="https://acsboda.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7"></script><style type="text/css" media="all"></style>
+<div id="pum-2534" class="pum pum-overlay pum-theme-2530 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":2534,"slug":"notification","theme_id":2530,"cookies":[],"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"0"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"tiny","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"left bottom","position_from_trigger":false,"position_top":"100","position_left":"10","position_bottom":"10","position_right":"0","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"left bottom","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_2534">
+
+	<div id="popmake-2534" class="pum-container popmake theme-2530 pum-responsive pum-responsive-tiny responsive size-tiny pum-position-fixed">
+
+				
+
+				            <div id="pum_popup_title_2534" class="pum-title popmake-title">
+				Covid 19			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p><span style="color: #0000ff;"><strong>Due to covid 19  our admission process will  start  after Lock down. </strong><span style="color: #ff0000;"><strong>“Please stay at home and wash your hand regularly”</strong> </span></span></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+
+</body></html>
