@@ -1,0 +1,79 @@
+[19-Jul-2020 09:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[21-Jul-2020 23:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/acsboda/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/locale.php on line 10
+[23-Jul-2020 18:15:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home/acsboda/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[24-Jul-2020 21:06:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[25-Jul-2020 19:55:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[25-Jul-2020 19:55:13 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[25-Jul-2020 19:55:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[25-Jul-2020 19:55:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[25-Jul-2020 19:55:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[29-Jul-2020 20:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[03-Aug-2020 22:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[08-Aug-2020 22:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[13-Aug-2020 22:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[18-Aug-2020 23:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[24-Aug-2020 03:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[29-Aug-2020 06:30:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[31-Aug-2020 10:55:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:55:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:55:54 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:55:54 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:55:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:00 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:00 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:00 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:00 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[31-Aug-2020 10:56:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/acsboda/public_html/wp-includes/functions.php on line 8
+[02-Sep-2020 21:52:49 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/acsboda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[02-Sep-2020 21:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/acsboda/public_html/wp-includes/update.php:801
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/update.php on line 801
+[02-Sep-2020 21:52:51 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/acsboda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 03:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 09:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
+[08-Sep-2020 18:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/acsboda/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/acsboda/public_html/wp-includes/feed-rss.php on line 8
